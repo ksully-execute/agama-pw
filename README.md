@@ -14,7 +14,7 @@
 # About Agama-PW Project
 
 This repo is home to the Gluu Agama-PW project. This Agama project provides 
-standard username-password authentication for a person.
+standard username-password authentication for a person...
 
 ![image](./pw-login-page.png)
 
